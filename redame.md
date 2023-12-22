@@ -14,20 +14,19 @@
     - Stilografica
     - Libro
 
- - Cerco i regali FINCHE'
-    - Rientra nei tempi di consegna?
-    - Rientra nel budget?
-
-
-- PER OGNI regalo 
+ - Cerco PER OGNI regale che:
+    
+    - Rientra nei tempi di consegna & nel budget
+ 
     - SE rientra nella VALUTAZIONE
-        - prime & budget
+
             - AGGIUNGO al carrello e ordina
+
     - ALTRIMENTI scarto.
 
         
 
-> considerazioni:
+> PER OGNI regalo:
 - Lampada:
     - rientra nel budget
     - MA NON nei tempi di consegna
