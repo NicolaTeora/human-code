@@ -9,16 +9,15 @@
 - Aprire Amazon
     - cell o Pc
 
-- valuto le idee che ho in mente:
+- valuto le idee che ho in mente DA CERCARE:
     - Lampada;
     - Stilografica
     - Libro
 
- - Cerco i regali
-
- - Per ogni idea regalo VALUTAZIONE:
+ - Cerco i regali FINCHE'
     - Rientra nei tempi di consegna?
     - Rientra nel budget?
+
 
 - PER OGNI regalo 
     - SE rientra nella VALUTAZIONE
@@ -38,5 +37,4 @@
 - Cerco Libro (classico)
     - rientra nel budget 
     - rientra nei tempi di consegna
-    - Bonus
-        - sicurezza del gradimento
+    
